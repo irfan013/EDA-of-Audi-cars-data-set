@@ -21,4 +21,7 @@ dataset source: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw
 - Barplot
 - Subplots
 - Scatterplot
-- 
+- Histogram
+- Cumulative distribution plot
+- boxplot
+- Using loop, functions for tidy coding
