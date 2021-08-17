@@ -1,5 +1,5 @@
 # EDA-of-Audi-cars-data-set
-Here a sample dataset of Audi cars were used. Several analyses will be done based on this data.
+Here a sample dataset of Audi cars were used. Several analyses were done based on this data.
 
 dataset source: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw-ford-hyundai-skoda-vw
 
@@ -25,3 +25,5 @@ dataset source: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw
 - Cumulative distribution plot
 - boxplot
 - Using loop, functions for tidy coding
+
+Update: 17th August 2021
