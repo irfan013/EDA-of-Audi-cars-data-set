@@ -25,5 +25,7 @@ dataset source: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw
 - Cumulative distribution plot
 - boxplot
 - Using loop, functions for tidy coding
+- Pivot table usuage to answer specfic questions
+- Using barplots for more exploration of data to answer specfic questions 
 
-Update: 25th August 2021
+Update: 4th September 2021
