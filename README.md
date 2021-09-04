@@ -26,6 +26,6 @@ dataset source: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw
 - boxplot
 - Using loop, functions for tidy coding
 - Pivot table usuage to answer specfic questions
-- Using barplots for more exploration of data to answer specfic questions 
+- Barplots usuage for more exploration of data to answer specfic questions 
 
 Update: 4th September 2021
