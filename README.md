@@ -28,4 +28,4 @@ dataset source: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw
 - Pivot table usuage to answer specfic questions
 - Barplots usuage for more exploration of data to answer specfic questions 
 
-Update: 4th September 2021
+Update: 5th September 2021
