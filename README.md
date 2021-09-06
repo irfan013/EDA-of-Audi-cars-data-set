@@ -1,7 +1,7 @@
-# EDA-of-Audi-cars-data-set
-Here a sample dataset of Audi cars was used. Several analyses were done based on this data.
+# Exploratory Data Analysis of Audi cars dataset
+Here a sample dataset of used Audi cars was used. Several analyses were done based on this data.
 
-dataset source: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw-ford-hyundai-skoda-vw
+Dataset source: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw-ford-hyundai-skoda-vw
 
 ## Descriptions of the dataset
 ### Dependent variable
