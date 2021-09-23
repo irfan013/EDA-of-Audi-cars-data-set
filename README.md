@@ -1,4 +1,4 @@
-# Exploratory Data Analysis of Audi cars dataset
+# Analysis of Audi cars dataset
 Here a sample dataset of used Audi cars was used. Several analyses were done based on this data.
 
 Dataset source: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw-ford-hyundai-skoda-vw
@@ -16,6 +16,7 @@ Dataset source: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw
 - mpg: miles per gallon
 - engineSize: Size of car's cylinders, measured in cubic centimetres (cc)
 
+## Exploratory Data Analysis
 ### Analysis performed
 - Data analysis using NumPy, Pandas and Seaborn
 - Barplot
@@ -28,7 +29,7 @@ Dataset source: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw
 - Pivot table usuage to answer specfic questions
 - Barplots usuage for more exploration of data to answer specfic questions 
 
-# Implementing Machine Learning to Audi cars dataset
+## Implementing Machine Learning to Audi cars dataset
 
 ### Analysis performed
 - Separating the numeric features and target variable
