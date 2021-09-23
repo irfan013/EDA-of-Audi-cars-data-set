@@ -28,4 +28,12 @@ Dataset source: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw
 - Pivot table usuage to answer specfic questions
 - Barplots usuage for more exploration of data to answer specfic questions 
 
-Update: 5th September 2021
+# Implementing Machine Learning to Audi cars dataset
+
+### Analysis performed
+- Separating the numeric features and target variable
+- Spliting the original dataset into the train set (80%) and the test set (20%)
+- Performing Linear Regression and predicting the 'Price' from the test set
+- Finding the RMSE value from the actual test data and the predicted data
+
+Update: 23rd September 2021
