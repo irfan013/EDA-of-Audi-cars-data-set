@@ -7,7 +7,7 @@ Dataset source: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw
 ### Dependent variable
 - Price: Price of the cars
 
-### Independent variables
+### Independent variables (features)
 - model: Model of the cars defined by Audi
 - year: Specific year when the car was built
 - transmission: Type of gearboxes used in the car
