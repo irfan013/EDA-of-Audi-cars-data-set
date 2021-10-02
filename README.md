@@ -39,7 +39,7 @@ Dataset source: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw
 ### Analysis performed (fitting a liner regression with all the available features)
 - Performing Label Encoding or One-hot Encoding
 - Spliting the original dataset into the train set (80%) and the test set (20%)
-- Perform Linear Regression and Predict the 'Price' from the test set
+- Performing Linear Regression and predicting the 'Price' from the test set
 - Showing the coefficients of the linear regression model for each feature and the y-intercept value of the linear regression model with interpretation
 - Finding the MAE, MAPE, MSE, RMSE, coefficient of determination values from the actual target variable and the predicted target variable
 - Comparing the actual and predicted target variable through visualization
