@@ -13,6 +13,7 @@ Dataset source: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw
 - transmission: Type of gearboxes used in the car
 - mileage: the number of miles the car has been driven
 - fuelType: Type of fuel can be used for this car
+- tax: Road tax in Dollar
 - mpg: miles per gallon
 - engineSize: Size of car's cylinders, measured in cubic centimetres (cc)
 
@@ -37,4 +38,4 @@ Dataset source: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw
 - Performing Linear Regression and predicting the 'Price' from the test set
 - Finding the RMSE value from the actual test data and the predicted data
 
-Update: 23rd September 2021
+Update: 2nd October 2021
