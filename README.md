@@ -31,7 +31,6 @@ Dataset source: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw
 - Barplots usuage for more exploration of data to answer specfic questions 
 
 ## Implementing Machine Learning to Audi cars dataset
-
 ### Analysis performed
 - Separating the numeric features and target variable
 - Spliting the original dataset into the train set (80%) and the test set (20%)
